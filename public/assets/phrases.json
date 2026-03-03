@@ -1,0 +1,122 @@
+[
+  {
+    "category": "Greetings",
+    "en": "How are you?",
+    "ru": "Как дела?",
+    "tj": "Шумо чӣ хел?"
+  },
+  {
+    "category": "Greetings",
+    "en": "What is your name?",
+    "ru": "Как вас зовут?",
+    "tj": "Номи шумо чист?"
+  },
+  {
+    "category": "Greetings",
+    "en": "Nice to meet you",
+    "ru": "Приятно познакомиться",
+    "tj": "Аз вохӯрӣ бо шумо шодам"
+  },
+  {
+    "category": "Greetings",
+    "en": "Where are you from?",
+    "ru": "Откуда вы?",
+    "tj": "Шумо аз куҷоед?"
+  },
+  {
+    "category": "Dining",
+    "en": "I am hungry",
+    "ru": "Я голоден",
+    "tj": "Ман гуруснаам"
+  },
+  {
+    "category": "Dining",
+    "en": "I am thirsty",
+    "ru": "Я хочу пить",
+    "tj": "Ман ташнаам"
+  },
+  {
+    "category": "Dining",
+    "en": "The bill, please",
+    "ru": "Счет, пожалуйста",
+    "tj": "Ҳисобро биёред, илтимос"
+  },
+  {
+    "category": "Dining",
+    "en": "Where is the restaurant?",
+    "ru": "Где находится ресторан?",
+    "tj": "Ресторан дар куҷост?"
+  },
+  {
+    "category": "Travel",
+    "en": "Where is the airport?",
+    "ru": "Где аэропорт?",
+    "tj": "Фурудгоҳ дар куҷост?"
+  },
+  {
+    "category": "Travel",
+    "en": "I need a taxi",
+    "ru": "Мне нужно такси",
+    "tj": "Ба ман таксӣ лозим аст"
+  },
+  {
+    "category": "Travel",
+    "en": "How much is the ticket?",
+    "ru": "Сколько стоит билет?",
+    "tj": "Билет чанд пул аст?"
+  },
+  {
+    "category": "Travel",
+    "en": "Turn left",
+    "ru": "Поверните налево",
+    "tj": "Ба чап гардед"
+  },
+  {
+    "category": "Travel",
+    "en": "Turn right",
+    "ru": "Поверните направо",
+    "tj": "Ба рост гардед"
+  },
+  {
+    "category": "Emergency",
+    "en": "Help me!",
+    "ru": "Помогите мне!",
+    "tj": "Ба ман ёрӣ диҳед!"
+  },
+  {
+    "category": "Emergency",
+    "en": "Call a doctor",
+    "ru": "Вызовите врача",
+    "tj": "Духтурро ҷеғ занед"
+  },
+  {
+    "category": "Emergency",
+    "en": "I am lost",
+    "ru": "Я заблудился",
+    "tj": "Ман гум шудам"
+  },
+  {
+    "category": "Shopping",
+    "en": "How much does it cost?",
+    "ru": "Сколько это стоит?",
+    "tj": "Ин чанд пул аст?"
+  },
+  {
+    "category": "Shopping",
+    "en": "It is too expensive",
+    "ru": "Это слишком дорого",
+    "tj": "Ин хеле гарон аст"
+  },
+  {
+    "category": "Shopping",
+    "en": "Do you have a discount?",
+    "ru": "У вас есть скидка?",
+    "tj": "Шумо тахфиф доред?"
+  },
+  {
+    "category": "Shopping",
+    "en": "I like this",
+    "ru": "Мне это нравится",
+    "tj": "Ин ба ман маъқул аст"
+  }
+]
